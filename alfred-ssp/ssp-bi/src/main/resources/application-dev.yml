@@ -1,0 +1,7 @@
+app:
+  id: alfred-ssp
+apollo:
+  meta: http://192.168.25.133:8080
+  bootstrap:
+    enabled: true
+    namespace: application

@@ -1,0 +1,13 @@
+
+spring:
+  application:
+    name: alfred-ssp
+  profiles:
+    active: @profile.active@
+server:
+  port: 10081
+cdmis:
+  sso:
+    appcode: oj
+    secretcode: kk
+
